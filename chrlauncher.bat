@@ -1,1 +1,1 @@
-@echo off & start /min "" "C:\Users\User\Documents\chrlauncher\64\chrlauncher.exe"
+@echo off & start /min "" "%~dp0\chrlauncher.exe"
