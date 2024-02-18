@@ -1,0 +1,1 @@
+@echo off & start /min "" "C:\Users\User\Documents\chrlauncher\64\chrlauncher.exe"
